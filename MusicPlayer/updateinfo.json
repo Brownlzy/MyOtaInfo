@@ -1,6 +1,7 @@
 {
     "lastVersionName":"beta.2.7",
-    "lastVsrsionCode":10,
+    "lastVersionCode":10,
+    "size":"4.3MB",
     "filename":"musicplayer_beta.2.7",
-    "changLog":""
+    "changLog":"1.增加更新\n2.test"
 }
