@@ -1,7 +1,7 @@
 {
-    "lastVersionName":"beta.2.8.2",
-    "lastVersionCode":12,
+    "lastVersionName":"beta.2.8.3",
+    "lastVersionCode":13,
     "size":"4.23MB",
-    "filename":"musicplayer_beta.2.8.2",
-    "changLog":"1.修复切换颜色模式时崩溃的问题\n2.修复加粗字体歌词与描边重叠问题\n3.更新包下载目录修改至缓存目录,可通过应用详情页清除缓存"
+    "filename":"musicplayer_beta.2.8.3",
+    "changLog":"1.修复部分情况下刷新播放列表失败的问题\n2.增加有线/蓝牙耳机连接检测（线控暂停播放切歌/拔出暂停插回播放）(可能部分耳机不支持)"
 }
