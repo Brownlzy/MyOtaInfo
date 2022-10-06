@@ -1,7 +1,7 @@
 {
-    "lastVersionName":"beta.2.8.6",
-    "lastVersionCode":16,
+    "lastVersionName":"beta.2.8.7",
+    "lastVersionCode":17,
     "size":"4.33MB",
-    "filename":"musicplayer_beta.2.8.6",
-    "changLog":"1.适配小米安卓12服务启动限制(感谢老谭)\n2.增加生成异常日志系统,便于查找错误(感谢同桌)\n3.修复搜索时从其他页面返回后搜索结果被清除的问题\n4.修复顺序播放至最后一首时不能停止的问题\n5.正在播放区歌曲信息超长后开启跑马灯效果"
+    "filename":"musicplayer_beta.2.8.7",
+    "changLog":"1.增加播放列表信息手动修改"
 }
