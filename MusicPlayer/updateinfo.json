@@ -1,7 +1,7 @@
 {
-    "lastVersionName":"beta.2.9.0",
-    "lastVersionCode":1,
-    "size":"4.31MB",
-    "filename":"musicplayer_beta.2.9.0",
-    "changLog":"1.增加正在播放列表，原播放列表更名为曲库\n2.增加下一首播放\n※注意※：强烈建议更新完成后清除一次数据再导入音乐（记得清除权限后要重新开启悬浮窗权限和自启动手动管理！）"
+    "lastVersionName":"beta.2.8.7",
+    "lastVersionCode":17,
+    "size":"4.33MB",
+    "filename":"musicplayer_beta.2.8.7",
+    "changLog":"1.增加播放列表信息手动修改"
 }
