@@ -1,0 +1,7 @@
+{
+    "lastVersionName":"beta.3.0.0",
+    "lastVersionCode":30,
+    "size":"",
+    "filename":"musicplayer_beta.3.0.0",
+    "changLog":"1.修改底层架构（请一定清除应用数据后重新授予权限后再使用！）\n2.可能会有较多bug，建议备份原安装包后再安装\n3.自beta.3.0.0后增加账号系统,需先向我提供邮箱用于注册(ps:只验证邮箱)"
+}

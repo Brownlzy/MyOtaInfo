@@ -1,7 +1,7 @@
 {
-    "lastVersionName":"beta.2.8.7",
-    "lastVersionCode":17,
+    "lastVersionName":"beta.2.9.0",
+    "lastVersionCode":2,
     "size":"4.33MB",
-    "filename":"musicplayer_beta.2.8.7",
-    "changLog":"1.增加播放列表信息手动修改"
+    "filename":"musicplayer_beta.2.9.0",
+    "changLog":"1.增加正在播放列表"
 }
