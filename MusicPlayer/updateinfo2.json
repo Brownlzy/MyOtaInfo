@@ -1,7 +1,7 @@
 {
-    "lastVersionName":"beta.3.0.0",
+    "lastVersionName":"beta.3.0.1",
     "lastVersionCode":31,
     "size":"4.36MB",
-    "filename":"musicplayer_beta.3.0.0",
-    "changLog":"1.修改底层架构（请一定清除应用数据后重新授予权限后再使用！）\n2.可能会有较多bug，建议备份原安装包后再安装\n3.自beta.3.0.0后增加账号系统,需先向我提供注册码(ps:注册码由用户名通过哈希函数生成，我无法逆推出你的用户名，请牢记)"
+    "filename":"musicplayer_beta.3.0.1",
+    "changLog":"1.增加开屏时间设置（仅登录用户可用）\n2.增加公告板\n3.修复更新问题"
 }
