@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<body>
+    MusicPlayer手动下载页面
+  <br>  <hr>
+  下载方式一（不需要重命名）：  <br>
+  <button id="download" onclick="courseDownload('https\://brownlzy.github.io/MyOtaInfo/MusicPlayer/apk/musicplayer_beta.3.0.4','musicplayer_beta.3.0.4.apk')">点我自动下载最新版MusicPlayer</button>
+    <br>下载进度 <span id="loaded"></span> / <span id="total"></span>
+  <br>   <span id="success"></span><br>
+ <hr>
+  <br>
+  下载方式二（需要重命名为apk后缀）：  <br>
+<a href="https://brownlzy.github.io/MyOtaInfo/MusicPlayer/apk/musicplayer_beta.3.0.4" download="musicplayer_beta.3.0.4.apk">点我下载最新版MusicPlayer</a>
+  <br>
+  <hr><script>
+// 下载
+  // @param  {String} url 目标文件地址
+  // @param  {String} filename 想要保存的文件名称
+  function courseDownload(url, filename) {
+    var button=document.getElementById('download');
+    button.disabled=true;
+    getBlob(url, function(blob) {
+    saveAs(blob, filename);
+    })
+  }
+  function getBlob(url,cb) {
+    let xhr = new XMLHttpRequest();
+    xhr.onprogress = event => { // 下载进度事件
+        loaded.innerText = event.loaded 
+        total.innerText = event.total
+      };
+    xhr.open('GET', url, true);
+    xhr.responseType = 'blob';
+    xhr.onload = function() {
+      if (xhr.status === 200) {
+        cb(xhr.response);
+      }
+    }
+    xhr.send();
+  }
+  // 保存
+  // @param  {Blob} blob
+  // @param  {String} filename 想要保存的文件名称
+  function saveAs(blob, filename) {
+    if (window.navigator.msSaveOrOpenBlob) {
+      navigator.msSaveBlob(blob, filename);
+    } else {
+      let link = document.createElement('a');
+      link.href = window.URL.createObjectURL(blob);
+      link.download = filename;
+      link.click();
+      window.URL.revokeObjectURL(link.href);
+      success.innerText = fileName + ' 下载完成'
+    }
+  }
+</script>
+</body>
