@@ -1,7 +1,7 @@
 {
-    "lastVersionName":"beta.3.0.5",
-    "lastVersionCode":37,
+    "lastVersionName":"beta.3.0.6",
+    "lastVersionCode":38,
     "size":"4.37MB",
-    "filename":"musicplayer_beta.3.0.5",
+    "filename":"musicplayer_beta.3.0.6",
     "changLog":"注意！！！：2.x版本升级成功后清除数据再使用！！！\n1.修复在安卓12下通知栏停止通知不消失的问题\n2.修复在安卓12下锁定歌词后无法点击歌词下方内容的问题\n3.增加手动下载更新\n4.最新版可以看到更新日志"
 }
