@@ -1,6 +1,6 @@
 {
     "lastVersionName":"beta.3.0.4",
-    "lastVersionCode":35,
+    "lastVersionCode":36,
     "size":"4.37MB",
     "filename":"musicplayer_beta.3.0.4",
     "changLog":"1.修复在安卓12下通知栏停止通知不消失的问题\n2.修复在安卓12下锁定歌词后无法点击歌词下方内容的问题"
