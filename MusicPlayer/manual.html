@@ -44,11 +44,16 @@
     if (window.navigator.msSaveOrOpenBlob) {
       navigator.msSaveBlob(blob, filename);
     } else {
-      let link = document.createElement('a');
-      link.href = window.URL.createObjectURL(blob);
-      link.download = filename;
-      link.click();
-      window.URL.revokeObjectURL(link.href);
+        const link = document.createElement('a');
+        const body = document.querySelector('body');
+        link.href = window.URL.createObjectURL(blob);
+        link.download = filename;
+        // fix Firefox
+        link.style.display = 'none';
+        body.appendChild(link);
+        link.click();
+        body.removeChild(link);
+        window.URL.revokeObjectURL(link.href);
       success.innerText = fileName + ' 下载完成'
     }
   }
