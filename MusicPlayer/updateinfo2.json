@@ -1,8 +1,8 @@
 {
-    "lastVersionName":"3.0.12",
-    "lastVersionCode":46,
-    "size":"4.38MB",
-    "filename":"musicplayer_3.0.12",
-    "manual":"https://brownlzy.github.io/MyOtaInfo/MusicPlayer/apk/musicplayer.apk",
-    "changLog":"1.增加启动管理设置项\n2.优化登录注销体验\n3.快速启动移出实验室\n4.改进更新及公告板。"
+    "lastVersionName":"3.0.13",
+    "lastVersionCode":48,
+    "size":"4.41MB",
+    "filename":"musicplayer_3.0.13",
+    "manual":"https://brownlzy.github.io/MyOtaInfo/MusicPlayer/manual.html",
+    "changLog":"1.增加启动管理设置项\n2.优化登录注销体验\n3.快速启动移出实验室\n4.改进更新及公告板\n5.准备上线在线播放"
 }
