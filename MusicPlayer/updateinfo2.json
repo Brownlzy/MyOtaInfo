@@ -1,8 +1,8 @@
 {
-    "lastVersionName":"3.1.0",
-    "lastVersionCode":50,
+    "lastVersionName":"3.1.1",
+    "lastVersionCode":51,
     "size":"3.54MB",
-    "filename":"musicplayer_3.1.0",
+    "filename":"musicplayer_3.1.1",
     "manual":"https://brownlzy.github.io/MyOtaInfo/MusicPlayer/manual.html",
-    "changLog":"1.增加“用综音播放”打开方式，打开音乐文件时可选择用综音打开\n2.增加缓存清理设置项，一键清理缓存内容\n3.更小的软件体积，安装包精简了约1MB大小"
+    "changLog":"1.增加“用综音播放”打开方式，打开音乐文件时可选择用综音打开\n2.增加缓存清理设置项，一键清理缓存内容\n3.添加音乐文件、检查更新、登录均有加载动画提示\n4.更小的软件体积，安装包精简了约1MB大小\n5.修复添加本机音乐失败问题"
 }
