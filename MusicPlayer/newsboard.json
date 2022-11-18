@@ -1,7 +1,7 @@
 {
-    "id":6,
-    "ct":"全新APP官网现已上线！\no(〃＾▽＾〃)o\n需要更新至3.0.12及以上版本可通过右下角按钮访问，旧版请先升级。\n链接：https://brownlzy.github.io/MyOtaInfo/MusicPlayer/manual.html",
-    "fun":1,
-    "bn":"全新下载页",
-    "ag":"https://brownlzy.github.io/MyOtaInfo/MusicPlayer/manual.html"
+    "id":7,
+    "ct":"新版本预告：3.1.2\n预计更新时间：2022.11.19\n主要更新点：\n1.没有授予更新权限时开启桌面歌词将通过通知提示\n2.修复后台播放时自动切歌会导致崩溃的问题\n3.修复部分场景打开应用时闪退问题\n4.桌面歌词在5秒时间无操作后会进入精简模式",
+    "fun":0,
+    "bn":"",
+    "ag":""
 }
