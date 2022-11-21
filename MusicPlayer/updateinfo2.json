@@ -1,8 +1,8 @@
 {
-    "lastVersionName":"3.1.4",
-    "lastVersionCode":55,
-    "size":"3.56MB",
-    "filename":"musicplayer_3.1.4",
+    "lastVersionName":"3.1.5",
+    "lastVersionCode":58,
+    "size":"3.57MB",
+    "filename":"musicplayer_3.1.5",
     "manual":"https://brownlzy.github.io/MyOtaInfo/MusicPlayer/manual.html",
-    "changLog":"3.1.2-3.1.4更新点：\n1.增加歌单排序\n2.增加歌曲信息来源选项\n3.播放列表可以长按弹出菜单\n4.正在播放和播放列表中的歌曲现可以加入歌单便于管理\n5.优化显示效果\n推荐前往官网使用蓝奏云链接高速下载"
+    "changLog":"3.1.2-3.1.5更新点：\n1.增加歌单排序\n2.增加歌曲信息来源选项\n3.播放列表可以长按弹出菜单\n4.正在播放和播放列表中的歌曲现可以加入歌单便于管理\n5.新增关于页\n6.优化显示效果\n推荐前往官网使用蓝奏云链接高速下载"
 }
