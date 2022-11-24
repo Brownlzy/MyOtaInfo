@@ -1,8 +1,8 @@
 {
-    "lastVersionName":"3.1.7",
-    "lastVersionCode":61,
-    "size":"3.59MB",
-    "filename":"musicplayer_3.1.7",
+    "lastVersionName":"3.1.8",
+    "lastVersionCode":64,
+    "size":"3.61MB",
+    "filename":"musicplayer_3.1.8",
     "manual":"https://brownlzy.github.io/MyOtaInfo/MusicPlayer/manual.html",
-    "changLog":"1.从播放列表生成歌单、添加歌单所有歌曲到播放列表两个功能开放给未登录用户\n2.新增联系方式\n推荐前往官网使用蓝奏云链接高速下载"
+    "changLog":"1.向下兼容安卓9\n2.优化安卓12开屏显示效果\n推荐前往官网使用蓝奏云链接高速下载"
 }
