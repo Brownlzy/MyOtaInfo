@@ -1,8 +1,8 @@
 {
     "lastVersionName":"3.2.1",
-    "lastVersionCode":69,
+    "lastVersionCode":70,
     "size":"3.69MB",
     "filename":"musicplayer_3.2.1",
     "manual":"https://brownlzy.github.io/MyOtaInfo/MusicPlayer/manual.html",
-    "changLog":"2023/1/8\n1.增加Web服务，可在电脑浏览器中听歌，可在局域网或热点情况下分享给其他综音用户\n2.部分功能开放给未登录用户\n3.修复共享播放列表时的套娃问题\n推荐前往官网使用蓝奏云链接高速下载"
+    "changLog":"2023/1/8\n1.增加Web服务，可在电脑浏览器中听歌，可在局域网或热点情况下分享给其他综音用户\n2.部分功能开放给未登录用户\n3.修复共享播放列表时的套娃问题\n4.修复web端歌词最后一个字乱码问题\n推荐前往官网使用蓝奏云链接高速下载"
 }
