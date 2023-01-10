@@ -1,9 +1,9 @@
 {
-    "lastVersionName":"3.2.4",
-    "lastVersionCode":80,
+    "lastVersionName":"3.2.5",
+    "lastVersionCode":82,
     "size":"3.70MB",
-    "filename":"musicplayer_3.2.4",
+    "filename":"musicplayer_3.2.5",
     "manual":"https://brownlzy.github.io/MyOtaInfo/MusicPlayer/manual.html",
-    "date":"2023/1/9",
-    "changLog":"1.增加Web服务，可在电脑浏览器中听歌，可在局域网或热点情况下分享给其他综音用户\n2.Web端背景为登录用户开屏图\n3.增加检查更新失败指路,防止失联\n4.修复许多小问题\n推荐前往官网使用蓝奏云链接高速下载"
+    "date":"2023/1/10",
+    "changLog":"1.播放在线音频时显示缓冲进度条\n2.Web端现在可以查看并播放在线列表\n3.修复许多小问题,详见更新日志\n推荐前往官网使用蓝奏云链接高速下载"
 }
