@@ -1,9 +1,9 @@
 {
-    "lastVersionName":"3.2.6",
-    "lastVersionCode":84,
+    "lastVersionName":"更新渠道变更",
+    "lastVersionCode":87,
     "size":"3.70MB",
     "filename":"musicplayer_3.2.6",
     "manual":"https://brownlzy.github.io/MyOtaInfo/MusicPlayer/manual.html",
-    "date":"2023/1/10",
-    "changLog":"1.播放在线音频时显示缓冲进度条\n2.Web端现在可以查看并播放在线列表\n3.修复许多小问题,详见更新日志\n推荐前往官网使用蓝奏云链接高速下载"
+    "date":"2023/1/12",
+    "changLog":"APP内自动更新已经不是最新版的下载渠道，请点左下角按钮前往官网下载新版本！\n注意，新版本与旧版本数据不兼容，需要清除数据后使用！"
 }
