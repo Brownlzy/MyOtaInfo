@@ -1,9 +1,9 @@
 {
-    "lastVersionName":"3.2.8",
-    "lastVersionCode":88,
-    "size":"3.70MB",
-    "filename":"brownmusic_3.2.8.apk",
+    "lastVersionName":"3.2.10",
+    "lastVersionCode":90,
+    "size":"3.72MB",
+    "filename":"brownmusic_3.2.10.apk",
     "manual":"https://brownlzy.github.io/MyOtaInfo/MusicPlayer/manual.html",
     "date":"2023/1/12",
-    "changLog":"呀，切换更新渠道的第一版本居然被你发现了！\n可以截图找作者要小奖励哦(*/ω＼*)"
+    "changLog":"1.全新歌单系统，支持文件夹、网络连接列表，直接在歌单内右上角点击刷新按钮即可同步最新歌单\n2.歌单支持备份与恢复（所有音乐歌单除外）"
 }
